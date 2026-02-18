@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 5000;
 const allowedOrigins = [
   "https://chat-frontend-gilt-seven.vercel.app",
   "https://chat-frontend-git-main-aryan-singhs-projects-b9dd610f.vercel.app",
-  "https://chat-frontend-1p3yho0wb-aryan-singhs-projects-b9dd610f.vercel.app",
+  "https://chat-frontend-njiu6fu5d-aryan-singhs-projects-b9dd610f.vercel.app",
   "http://localhost:3000"
 ];
 
