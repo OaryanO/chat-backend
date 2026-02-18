@@ -9,7 +9,7 @@ const server = http.createServer(app);
 const allowedOrigins = [
   "https://chat-frontend-gilt-seven.vercel.app",
   "https://chat-frontend-git-main-aryan-singhs-projects-b9dd610f.vercel.app",
-  "https://chat-frontend-4ihys6hsi-aryan-singhs-projects-b9dd610f.vercel.app",
+  "https://chat-frontend-1p3yho0wb-aryan-singhs-projects-b9dd610f.vercel.app",
   "http://localhost:3000"
 ];
 
